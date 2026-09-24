@@ -1,0 +1,209 @@
+id;contigs;Length;N90;Column2;ST;Column4;Column5;Column6;Column7;Column8;Column9;Column10;c0_s153_6753_7#18_2_length_53736_plasmid_copy_number_short_3_13x_plasmid_copy_number_long_4_58x_circular_true_quast;c0_s153_9475_4#59_4_length=58751_depth=1.76x_quast;c0_s153_9475_4#60_4_quast;c0_s24_49237_2#315_2_length_263241_depth_1_60x_circular_true_quast;c0_s69_7521_2#54_2_length_116559_depth_1_86x_circular_true_quast;c0_s70_6753_8#17_3_length_108687_depth_1_35x_circular_true_quast;pling;Higher_genome_fraction
+SAMN07312277;497;4965083;36995;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,006;73,782;79,302;c0_s70;79.3
+SAMN30416443;462;5190572;19119;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);26,139;26,289;26,289;36,605;75,333;80,243;c0_s70;80.24
+SAMN31521351;437;5049443;26334;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,672;0,184;0,184;0,594;1,131;0,34;Different plasmid;1.13
+SAMN40749024;375;5118023;33328;ecoli_achtman_4;423;adk(6);fumC(4);gyrB(33);icd(1);mdh(20);purA(12);recA(7);37,487;33,952;33,749;43,496;80,042;85,001;c0_s70;85
+SAMN24967134;368;5330899;28791;ecoli_achtman_4;327;adk(6);fumC(4);gyrB(4);icd(85);mdh(43);purA(12);recA(7);31,264;28,548;28,023;10,108;14,669;13,583;Different plasmid;31.26
+SAMN40748649;354;5151557;33758;ecoli_achtman_4;423;adk(6);fumC(4);gyrB(33);icd(1);mdh(20);purA(12);recA(7);31,283;41,829;41,901;42,819;81,393;85,962;c0_s70;85.96
+SAMN43267001;333;5086142;11098;ecoli_achtman_4;10155;adk(133);fumC(1439);gyrB(91);icd(189);mdh(110);purA(113);recA(76);15,291;15,996;15,996;10,501;7,451;6,369;Different plasmid;16
+SAMN37232349;315;5330292;19083;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);27,719;27,082;27,082;34,832;75,438;80,59;c0_s70;80.59
+SAMEA5855098;304;5149372;43086;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);67,305;70,538;69,235;44,425;78,734;86,69;c0_s70;86.69
+SAMN09832929;300;5111830;13481;ecoli_achtman_4;3931;adk(6);fumC(11);gyrB(4);icd(8);mdh(331);purA(78);recA(2);71,693;82,989;82,989;14,939;17,398;14,101;c0_s153;82.99
+SAMEA7290567;297;5008452;16711;ecoli_achtman_4;11587;adk(9);fumC(65);gyrB(33);icd(1420);mdh(9);purA(13);recA(6);27,427;24,943;25,087;8,985;13,167;12,339;Different plasmid;27.43
+SAMN31521418;288;4931881;32350;ecoli_achtman_4;7415;adk(163);fumC(393);gyrB(637);icd(809);mdh(68);purA(246);recA(75);13,935;11,3;5,758;9,732;3,455;2,653;Different plasmid;13.94
+SAMN44085056;286;5343132;32339;ecoli_achtman_4;7701;adk(12);fumC(58);gyrB(658);icd(344);mdh(1);purA(2);recA(47);41,896;39,235;30,83;48,905;84,616;86,929;c0_s70;86.93
+SAMEA1031205;283;5237782;27807;ecoli_achtman_4;1380;adk(35);fumC(35);gyrB(61);icd(52);mdh(5);purA(5);recA(4);63,177;70,424;70,424;38,657;76,717;93,459;c0_s70;93.46
+SAMN41778483;282;5223909;32448;ecoli_achtman_4;7701;adk(12);fumC(58);gyrB(658);icd(344);mdh(1);purA(2);recA(47);43,494;38,367;38,367;50,12;84,672;87,207;c0_s70;87.21
+SAMN43945304;266;5123832;28496;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);27,73;25,363;25,363;34,406;74,078;78,95;c0_s70;78.95
+SAMD00006220;263;4835603;11527;ecoli_achtman_4;2700;adk(133);fumC(399);gyrB(91);icd(189);mdh(110);purA(113);recA(76);10,721;5,564;5,581;7,193;7,777;6,147;Different plasmid;10.72
+SAMN27738590;263;5322514;17887;ecoli_achtman_4;12171;adk(583);fumC(4);gyrB(1162);icd(83);mdh(69);purA(8);recA(462);22,728;22,097;22,097;35,339;64,335;70,361;Different plasmid;70.36
+SAMN29623688;259;4796322;22163;ecoli_achtman_4;6579;adk(6);fumC(4);gyrB(12);icd(16);mdh(9);purA(13);recA(7);26,526;24,262;24,262;27,71;60,366;60,583;Different plasmid;60.58
+SAMEA1317835;258;5249792;26479;ecoli_achtman_4;1380;adk(35);fumC(35);gyrB(61);icd(52);mdh(5);purA(5);recA(4);64,374;70,8;70,795;39,369;78,299;94,569;c0_s70;94.57
+SAMD00171889;254;4886280;35306;ecoli_achtman_4;4736;adk(228);fumC(170);gyrB(85);icd(332);mdh(116);purA(149);recA(106);15,409;10,548;11,152;7,143;6,764;2,138;Different plasmid;15.41
+SAMN41535636;254;5084888;27756;ecoli_achtman_4;8519;adk(291);fumC(391);gyrB(134);icd(189);mdh(255);purA(66);recA(609);20,022;12,784;12,453;9,376;3,313;1,993;Different plasmid;20.02
+SAMN27025102;247;5333312;22778;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);35,589;57,211;57,194;11,977;19,006;9,446;Different plasmid;57.21
+SAMN31805332;247;5021833;28240;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,245;74,371;79,28;c0_s70;79.28
+SAMN37211436;247;4868262;17714;ecoli_achtman_4;329;adk(64);fumC(4);gyrB(5);icd(83);mdh(24);purA(8);recA(6);43,876;33,268;33,307;36,423;80,162;73,287;c0_s69;80.16
+SAMN43564349;246;5223994;28006;ecoli_achtman_4;423;adk(6);fumC(4);gyrB(33);icd(1);mdh(20);purA(12);recA(7);40,731;36,696;36,696;46,335;81,071;86,154;c0_s70;86.15
+SAMN28816593;243;4888359;16468;ecoli_achtman_4;329;adk(64);fumC(4);gyrB(5);icd(83);mdh(24);purA(8);recA(6);31,964;26,895;39,945;28,01;65,408;56,665;Different plasmid;65.41
+SAMN31521436;236;5003132;31305;ecoli_achtman_4;8519;adk(291);fumC(391);gyrB(134);icd(189);mdh(255);purA(66);recA(609);20,02;12,745;12,728;7,045;4,569;2,788;Different plasmid;20.02
+SAMN14349903;232;4975922;23550;ecoli_achtman_4;165;adk(10);fumC(27);gyrB(5);icd(10);mdh(12);purA(8);recA(2);47,356;45,916;45,916;40,645;79,307;84,454;c0_s70;84.45
+SAMEA6658648;231;4885858;20136;ecoli_achtman_4;758;adk(8);fumC(7);gyrB(4);icd(8);mdh(8);purA(8);recA(6);32,507;34,061;33,695;12,755;20,715;20,795;Different plasmid;34.06
+SAMEA1317858;230;4896464;17617;ecoli_achtman_4;5653;adk(6);fumC(4);gyrB(12);icd(587);mdh(20);purA(12);recA(7);68,492;40,844;40,844;38,467;90,743;83,064;c0_s69;90.74
+SAMD00077062;224;4932346;19354;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);38,872;43,017;43,021;32,594;64,702;63,115;Different plasmid;64.7
+SAMN08039204;223;4902646;17669;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);37,271;41,553;41,557;30,555;60,408;58,999;Different plasmid;60.41
+SAMN18350631;223;4954539;20723;ecoli_achtman_4;12025;adk(583);fumC(1810);gyrB(4);icd(83);mdh(69);purA(8);recA(462);21,328;25,23;23,921;36,56;73,768;79,433;c0_s70;79.43
+SAMN30414050;223;5183879;36828;ecoli_achtman_4;8314;adk(583);fumC(4);gyrB(4);icd(932);mdh(69);purA(8);recA(462);36,24;36,716;36,716;44,385;82,073;87,818;c0_s70;87.82
+SAMN17898424;221;4973552;15645;ecoli_achtman_4;11941;adk(583);fumC(1796);gyrB(4);icd(83);mdh(69);purA(8);recA(462);30,51;46,658;45,347;39,455;73,003;76,308;c0_s70;76.31
+SAMEA5548261;220;5196646;44695;ecoli_achtman_4;8692;adk(133);fumC(1203);gyrB(85);icd(984);mdh(142);purA(141);recA(176);4,956;7,442;7,442;3,649;5,43;5,898;Different plasmid;7.44
+SAMN21217528;220;5190979;19215;ecoli_achtman_4;2946;adk(286);fumC(385);gyrB(221);icd(322);mdh(159);purA(2);recA(157);25,376;23,21;23,21;26,995;58,058;59,522;Different plasmid;59.52
+SAMN10079570;218;4992588;27049;ecoli_achtman_4;8519;adk(291);fumC(391);gyrB(134);icd(189);mdh(255);purA(66);recA(609);18,079;11,542;11,542;8,128;4,709;2,788;Different plasmid;18.08
+SAMN13978643;218;4989095;36558;ecoli_achtman_4;1727;adk(6);fumC(19);gyrB(3);icd(16);mdh(11);purA(8);recA(6);28,406;30,495;30,471;9,936;15,901;12,301;Different plasmid;30.5
+SAMN37211454;218;5104882;23539;ecoli_achtman_4;12171;adk(583);fumC(4);gyrB(1162);icd(83);mdh(69);purA(8);recA(462);22,981;22,328;22,328;41,186;75,981;83,832;c0_s70;83.83
+SAMD00006164;215;4868003;17801;ecoli_achtman_4;6059;adk(163);fumC(788);gyrB(85);icd(386);mdh(280);purA(444);recA(176);4,513;4,128;4,128;4,614;4,045;0,784;Different plasmid;4.61
+SAMN31853268;212;4891338;34559;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);25,357;23,193;23,193;36,982;82,339;84,365;c0_s70;84.36
+SAMN09222192;211;4922533;31013;ecoli_achtman_4;7415;adk(163);fumC(393);gyrB(637);icd(809);mdh(68);purA(246);recA(75);13,935;11,3;5,758;9,732;3,455;2,538;Different plasmid;13.94
+SAMD00006171;210;4807793;22646;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,672;0,184;0,184;0,8;1,437;0,602;Different plasmid;1.44
+SAMN10118351;209;5162646;18412;ecoli_achtman_4;6446;adk(583);fumC(4);gyrB(4);icd(83);mdh(69);purA(8);recA(462);38,62;35,177;34,873;39,16;69,809;73,84;Different plasmid;73.84
+SAMN06019152;205;4862061;47731;ecoli_achtman_4;4736;adk(228);fumC(170);gyrB(85);icd(332);mdh(116);purA(149);recA(106);17,599;9,755;9,743;5,096;2,905;1,62;Different plasmid;17.6
+SAMN09725164;204;4914995;20647;ecoli_achtman_4;329;adk(64);fumC(4);gyrB(5);icd(83);mdh(24);purA(8);recA(6);34,055;41,371;40,313;36,608;81,104;74,092;c0_s69;81.1
+SAMN08797109;203;5211476;37969;ecoli_achtman_4;8691;adk(163);fumC(393);gyrB(85);icd(189);mdh(68);purA(66);recA(225);22,823;18,531;18,987;7,837;10,994;11,573;Different plasmid;22.82
+SAMN30823231;203;5280106;35086;ecoli_achtman_4;8692;adk(133);fumC(1203);gyrB(85);icd(984);mdh(142);purA(141);recA(176);9,137;12,82;12,82;11,272;9,861;7,002;Different plasmid;12.82
+SAMD00006200;202;4835085;20663;ecoli_achtman_4;2700;adk(133);fumC(399);gyrB(91);icd(189);mdh(110);purA(113);recA(76);9,078;5,854;5,871;7,165;8,035;6,472;Different plasmid;9.08
+SAMEA115829892;202;5032229;43812;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);53,815;39,965;40,425;42,473;81,973;85,617;c0_s70;85.62
+SAMN30414049;202;5180272;33694;ecoli_achtman_4;8314;adk(583);fumC(4);gyrB(4);icd(932);mdh(69);purA(8);recA(462);36,411;34,856;34,856;44,21;81,731;87,435;c0_s70;87.44
+SAMN09725183;201;4912810;19975;ecoli_achtman_4;329;adk(64);fumC(4);gyrB(5);icd(83);mdh(24);purA(8);recA(6);33,893;41,056;40,313;36,941;81,947;74,747;c0_s69;81.95
+SAMD00006214;199;4776928;13581;ecoli_achtman_4;6054;adk(538);fumC(~298);gyrB(134);icd(330);mdh(68);purA(141);recA(103);68,976;82,811;82,445;8,364;16,524;14,27;c0_s153;82.81
+SAMN25415175;199;4872052;22665;ecoli_achtman_4;2144;adk(6);fumC(6);gyrB(15);icd(56);mdh(11);purA(26);recA(6);23,589;27,138;26,161;8,542;14,944;13,056;Different plasmid;27.14
+SAMN09395158;198;4893725;31005;ecoli_achtman_4;7415;adk(163);fumC(393);gyrB(637);icd(809);mdh(68);purA(246);recA(75);13,04;10,482;4,939;9,831;4,947;2,946;Different plasmid;13.04
+SAMN31521311;198;4943791;54706;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);12,392;6,24;6,228;6,334;3,469;3,122;Different plasmid;12.39
+SAMN27928146;196;5062377;41064;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);39,367;31,332;31,332;77,209;84,39;88,108;c0_s70;88.11
+SAMEA2385665;195;4942209;37047;ecoli_achtman_4;708;adk(9);fumC(65);gyrB(33);icd(1);mdh(9);purA(13);recA(6);28,772;26,154;26,316;7,913;13,332;12,803;Different plasmid;28.77
+SAMN41481893;195;4998855;33977;ecoli_achtman_4;7415;adk(163);fumC(393);gyrB(637);icd(809);mdh(68);purA(246);recA(75);14,642;11,947;6,405;9,926;4,937;3,009;Different plasmid;14.64
+SAMD00006180;193;4757763;12003;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);3,446;0,184;0,184;1,455;1,437;0,436;Different plasmid;3.45
+SAMN31521432;193;4934619;44690;ecoli_achtman_4;2686;adk(291);fumC(393);gyrB(134);icd(189);mdh(255);purA(246);recA(225);5,304;7,442;8,209;3,391;5,117;4,913;Different plasmid;8.21
+SAMN32739325;192;4963339;24718;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);19,78;18,08;18,092;33,89;74,468;84,645;c0_s70;84.64
+SAMD00077146;191;5000174;24565;ecoli_achtman_4;1308;adk(6);fumC(6);gyrB(33);icd(1);mdh(24);purA(8);recA(7);32,691;27,952;28,297;9,906;13,09;12,084;Different plasmid;32.69
+SAMEA111505435;191;5041393;26320;ecoli_achtman_4;5236;adk(~540);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,047;73,704;79,436;c0_s70;79.44
+SAMN31521433;191;4899001;35184;ecoli_achtman_4;7415;adk(163);fumC(393);gyrB(637);icd(809);mdh(68);purA(246);recA(75);13,04;10,482;4,939;9,831;4,317;3,621;Different plasmid;13.04
+SAMN40190958;190;5142972;38139;ecoli_achtman_4;224;adk(6);fumC(4);gyrB(33);icd(16);mdh(11);purA(8);recA(6);44,62;37,882;37,882;12,377;15,314;13,29;Different plasmid;44.62
+SAMN21919242;188;4892596;44784;ecoli_achtman_4;6579;adk(6);fumC(4);gyrB(12);icd(16);mdh(9);purA(13);recA(7);19,106;18,784;18,784;40,184;80,902;86,595;c0_s70;86.6
+SAMN26378876;187;5035980;31350;ecoli_achtman_4;1380;adk(35);fumC(35);gyrB(61);icd(52);mdh(5);purA(5);recA(4);22,642;20,709;20,709;35,839;76,567;92,611;c0_s70;92.61
+SAMN38858327;187;5124658;35171;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);25,011;36,525;36,513;29,476;63,132;70,524;Different plasmid;70.52
+SAMN09388618;185;4931640;44690;ecoli_achtman_4;2686;adk(291);fumC(393);gyrB(134);icd(189);mdh(255);purA(246);recA(225);5,304;7,442;8,209;3,391;5,117;4,766;Different plasmid;8.21
+SAMN16688404;185;4990282;41078;ecoli_achtman_4;6579;adk(6);fumC(4);gyrB(12);icd(16);mdh(9);purA(13);recA(7);19,106;18,784;18,784;40,118;80,565;87,427;c0_s70;87.43
+SAMD00006204;184;4834239;21263;ecoli_achtman_4;2700;adk(133);fumC(399);gyrB(91);icd(189);mdh(110);purA(113);recA(76);9,078;5,854;5,871;7,136;7,863;6,4;Different plasmid;9.08
+SAMN03098252;184;4973171;25003;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,237;74,197;79,779;c0_s70;79.78
+SAMEA4852503;181;5227537;31867;ecoli_achtman_4;8692;adk(133);fumC(1203);gyrB(85);icd(984);mdh(142);purA(141);recA(176);18,716;11,515;11,515;12,81;8,524;6,812;Different plasmid;18.72
+SAMN42484511;181;5074835;31213;ecoli_achtman_4;2683;adk(132);fumC(394);gyrB(85);icd(330);mdh(68);purA(~247);recA(226);15,747;13,921;13,921;4,46;9,93;7,753;Different plasmid;15.75
+SAMD00006222;180;4777525;15782;ecoli_achtman_4;6054;adk(538);fumC(298);gyrB(134);icd(330);mdh(68);purA(141);recA(103);69,724;83,568;83,202;8,357;16,377;14,27;c0_s153;83.57
+SAMEA2385641;180;4896651;25342;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);57,554;62,361;62,501;38,686;74,919;82,48;c0_s70;82.48
+SAMN37211160;177;5043423;31058;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);51,74;37,564;37,567;34,949;65,716;63,762;Different plasmid;65.72
+SAMN31521344;175;4771365;51086;ecoli_achtman_4;4736;adk(228);fumC(170);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,568;0,519;0,519;5,893;3,059;1,62;Different plasmid;5.89
+SAMN37211457;175;5118980;33719;ecoli_achtman_4;12171;adk(583);fumC(4);gyrB(1162);icd(83);mdh(69);purA(8);recA(462);23,286;22,607;22,607;42,265;78,794;86,841;c0_s70;86.84
+SAMEA7608766;174;5013517;26855;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);75,448;76,962;76,717;40,623;92,835;88,09;c0_s69;92.83
+SAMN35794542;174;4904891;31091;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,669;79,648;c0_s70;79.65
+SAMEA4686279;172;4938092;53593;ecoli_achtman_4;6579;adk(6);fumC(4);gyrB(12);icd(16);mdh(9);purA(13);recA(7);29,031;26,553;26,553;29,182;63,09;63,797;Different plasmid;63.8
+SAMN20665818;172;5130323;38677;ecoli_achtman_4;12171;adk(583);fumC(4);gyrB(1162);icd(83);mdh(69);purA(8);recA(462);25,798;24,905;24,905;40,291;79,13;84,562;c0_s70;84.56
+SAMN41574636;171;4863775;31813;ecoli_achtman_4;5393;adk(228);fumC(170);gyrB(85);icd(546);mdh(116);purA(149);recA(106);7,167;15,07;15,07;3,667;6,787;5,923;Different plasmid;15.07
+SAMEA117798944;169;5122424;51313;ecoli_achtman_4;2683;adk(163);fumC(394);gyrB(255);icd(330);mdh(256);purA(247);recA(226);10,842;5,014;5,014;9,831;4,68;2,131;Different plasmid;10.84
+SAMEA6422544;169;4934995;29547;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);35,077;32,083;32,083;37,394;93,267;88,632;c0_s69;93.27
+SAMN21396284;169;4909053;30773;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);19,095;17,465;17,465;36,144;81,105;84,702;c0_s70;84.7
+SAMD00006168;167;4776832;17011;ecoli_achtman_4;6054;adk(538);fumC(298);gyrB(134);icd(330);mdh(68);purA(141);recA(103);68,976;82,812;82,445;8,364;16,377;14,27;c0_s153;82.81
+SAMEA6422359;166;4952003;32168;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);35,075;33,479;33,479;37,083;92,648;88,584;c0_s69;92.65
+SAMN35839508;166;5026060;42837;ecoli_achtman_4;129;adk(6);fumC(23);gyrB(3);icd(26);mdh(9);purA(7);recA(7);23,474;21,518;21,518;11,786;9,847;7,996;Different plasmid;23.47
+SAMEA1570469;165;4870727;32881;ecoli_achtman_4;5635;adk(6);fumC(4);gyrB(474);icd(16);mdh(24);purA(8);recA(14);29,44;24,423;24,423;44,303;79,34;85,041;c0_s70;85.04
+SAMN09343326;165;5007091;30929;ecoli_achtman_4;8314;adk(583);fumC(4);gyrB(4);icd(932);mdh(69);purA(8);recA(462);29,105;34,651;34,662;40,469;75,974;80,061;c0_s70;80.06
+SAMEA7608780;164;4999848;29546;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);66,985;69,218;68,976;40,235;92,269;87,606;c0_s69;92.27
+SAMN15003155;164;5051922;31656;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);37,798;43,431;43,119;31,858;62,182;59,717;Different plasmid;62.18
+SAMN18875181;164;4900761;38088;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);19,095;17,465;17,465;36,436;81,784;84,832;c0_s70;84.83
+SAMEA12921789;163;5133692;37789;ecoli_achtman_4;278;adk(9);fumC(23);gyrB(64);icd(18);mdh(11);purA(8);recA(6);64,493;53,582;53,582;12,525;16,694;14,763;Different plasmid;64.49
+SAMEA5854953;163;4897645;31091;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);60,04;38,626;40,154;38,796;93,07;88,162;c0_s69;93.07
+SAMN04992554;162;5036040;38863;ecoli_achtman_4;200;adk(6);fumC(4);gyrB(5);icd(26);mdh(7);purA(8);recA(14);18,868;22,481;22,478;10,327;11,097;8,409;Different plasmid;22.48
+SAMN05440344;162;4895924;32508;ecoli_achtman_4;200;adk(6);fumC(4);gyrB(5);icd(26);mdh(7);purA(8);recA(14);18,524;22,166;21,613;7,936;10,462;7,452;Different plasmid;22.17
+SAMEA114307250;160;5196172;93213;ecoli_achtman_4;8207;adk(286);fumC(385);gyrB(221);icd(322);mdh(1);purA(2);recA(11);41,004;41,56;41,56;31,353;61,83;62,593;Different plasmid;62.59
+SAMN16822434;160;4748676;60836;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,672;0,184;0,184;0,55;0,969;0,233;Different plasmid;0.97
+SAMN36814795;160;5206354;34269;ecoli_achtman_4;8314;adk(583);fumC(4);gyrB(4);icd(932);mdh(69);purA(8);recA(462);30,213;39,451;39,461;45,436;81,727;87,686;c0_s70;87.69
+SAMN35839553;159;5054845;41899;ecoli_achtman_4;129;adk(6);fumC(23);gyrB(3);icd(26);mdh(9);purA(7);recA(7);23,474;22,498;22,498;11,834;10,005;8,114;Different plasmid;23.47
+SAMEA114468178;157;4941309;53837;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);64,858;69,081;69,08;37,824;77,431;83,489;c0_s70;83.49
+SAMN02680152;157;4800863;31241;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);25,454;23,281;23,281;40,175;79,378;85,324;c0_s70;85.32
+SAMN41594173;157;4862884;42473;ecoli_achtman_4;5393;adk(228);fumC(170);gyrB(85);icd(546);mdh(116);purA(149);recA(106);6,731;14,01;14,672;3,502;8,605;6,198;Different plasmid;14.67
+SAMN43962255;157;4990353;37868;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);38,289;42,651;42,655;33,424;66,523;64,44;Different plasmid;66.52
+SAMEA3472046;156;5201091;34333;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);34,273;36,873;36,873;36,789;78,577;86,398;c0_s70;86.4
+SAMN32739317;155;5010959;47171;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);21,6;22,418;22,43;34,252;74,682;84,632;c0_s70;84.63
+SAMEA4852480;154;5099929;40805;ecoli_achtman_4;8691;adk(163);fumC(393);gyrB(85);icd(189);mdh(68);purA(66);recA(225);31,539;18,468;18,924;7,397;10,402;8,527;Different plasmid;31.54
+SAMN03326071;154;4948312;36105;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,814;c0_s70;79.81
+SAMEA12921761;153;5302708;63973;ecoli_achtman_4;1633;adk(218);fumC(266);gyrB(75);icd(242);mdh(1);purA(187);recA(2);55,953;41,398;41,398;14,334;14,125;11,604;Different plasmid;55.95
+SAMN03326059;153;4947398;36730;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,712;c0_s70;79.71
+SAMN03326061;153;4911535;36105;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,652;c0_s70;79.65
+SAMEA110022173;152;4964787;53837;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);64,05;65,837;65,839;37,763;77,433;83,489;c0_s70;83.49
+SAMN03326065;151;4913317;36730;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,651;c0_s70;79.65
+SAMN03326067;151;4947522;31085;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,887;c0_s70;79.89
+SAMN03326058;150;4949465;36730;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,814;c0_s70;79.81
+SAMN03326062;150;4911264;36105;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,712;c0_s70;79.71
+SAMN03326072;150;4910350;36105;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,957;c0_s70;79.96
+SAMN31521402;150;4818583;41086;ecoli_achtman_4;1338;adk(132);fumC(170);gyrB(85);icd(207);mdh(154);purA(149);recA(135);5,972;5,462;5,462;1,581;3,636;0,505;Different plasmid;5.97
+SAMEA10200448;149;5251643;37071;ecoli_achtman_4;7701;adk(12);fumC(58);gyrB(658);icd(344);mdh(1);purA(2);recA(47);37,995;30,081;35,433;89,651;76,26;78,682;c0_s24;89.65
+SAMEA10300992;149;4719735;33771;ecoli_achtman_4;1303;adk(10);fumC(7);gyrB(4);icd(8);mdh(12);purA(35);recA(2);29,61;35,068;35,23;9,149;18,272;15,157;Different plasmid;35.23
+SAMEA12921762;148;5156026;67115;ecoli_achtman_4;2144;adk(6);fumC(6);gyrB(15);icd(56);mdh(11);purA(26);recA(6);55,514;40,998;40,998;14,894;14,412;13,124;Different plasmid;55.51
+SAMN30602531;148;4942636;39380;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,861;76,301;86,744;c0_s70;86.74
+SAMEA4533641;147;4885166;28974;ecoli_achtman_4;93;adk(6);fumC(11);gyrB(4);icd(10);mdh(7);purA(8);recA(6);30,066;28,728;28,393;9,827;14,046;11,82;Different plasmid;30.07
+SAMEA7577754;146;5151880;42785;ecoli_achtman_4;12171;adk(583);fumC(4);gyrB(1162);icd(83);mdh(69);purA(8);recA(462);19,106;18,784;18,784;40,079;79,573;86,602;c0_s70;86.6
+SAMD00006215;144;4821527;45941;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,672;0,184;0,184;0,8;1,559;0,602;Different plasmid;1.56
+SAMN03326069;144;4912126;36105;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,957;c0_s70;79.96
+SAMN31521379;144;4678592;54493;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,471;NA;NA;1,088;2,03;1,231;Different plasmid;2.03
+SAMEA4428152;143;5006726;33151;ecoli_achtman_4;5653;adk(6);fumC(4);gyrB(12);icd(587);mdh(20);purA(12);recA(7);32,63;31,06;31,06;41,214;93,266;87,59;c0_s69;93.27
+SAMEA10200344;141;4941072;85467;ecoli_achtman_4;708;adk(9);fumC(65);gyrB(33);icd(1);mdh(9);purA(13);recA(6);27,778;29,499;29,661;7,837;13,16;11,932;Different plasmid;29.66
+SAMEA6422608;141;4928161;34473;ecoli_achtman_4;5221;adk(6);fumC(4);gyrB(4);icd(18);mdh(11);purA(8);recA(7);25,047;26,919;25,615;35,967;75,327;86,099;c0_s70;86.1
+SAMN46710436;141;4906184;62552;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);19,095;17,465;17,465;36,964;82,055;84,66;c0_s70;84.66
+SAMEA6422553;140;4930042;65999;ecoli_achtman_4;99;adk(6);fumC(4);gyrB(22);icd(18);mdh(9);purA(26);recA(7);27,756;25,227;25,389;7,879;13,331;13,092;Different plasmid;27.76
+SAMN12438231;139;4881467;36697;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);26,723;24,447;24,447;34,078;73,897;79,073;c0_s70;79.07
+SAMN42597481;139;4771654;46632;ecoli_achtman_4;1338;adk(132);fumC(170);gyrB(85);icd(207);mdh(154);purA(149);recA(135);5,972;5,462;5,462;1,581;3,578;0,34;Different plasmid;5.97
+SAMD00006192;138;4872857;31603;ecoli_achtman_4;6059;adk(163);fumC(788);gyrB(85);icd(386);mdh(280);purA(444);recA(176);4,513;4,128;4,128;4,83;4,279;1,864;Different plasmid;4.83
+SAMN03326063;138;4909591;37611;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,289;74,387;79,652;c0_s70;79.65
+SAMN12186230;138;4923647;36289;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,675;c0_s70;86.67
+SAMN44104065;136;5059154;61311;ecoli_achtman_4;2178;adk(9);fumC(6);gyrB(15);icd(56);mdh(11);purA(26);recA(6);49,38;30,241;28,939;35,4;64,033;73,98;Different plasmid;73.98
+SAMEA5694447;135;4881619;58542;ecoli_achtman_4;1727;adk(6);fumC(19);gyrB(3);icd(16);mdh(11);purA(8);recA(6);28,553;26,117;26,117;9,25;17,135;15,25;Different plasmid;28.55
+SAMN14449730;135;5160677;78119;ecoli_achtman_4;8207;adk(286);fumC(385);gyrB(221);icd(322);mdh(1);purA(2);recA(11);28,048;29,979;29,979;32,165;62,476;63,417;Different plasmid;63.42
+SAMN29922009;135;5266540;60754;ecoli_achtman_4;2946;adk(286);fumC(385);gyrB(221);icd(322);mdh(159);purA(2);recA(157);28,05;25,656;25,656;28,666;61,056;62,552;Different plasmid;62.55
+SAMN31521390;134;4751390;49236;ecoli_achtman_4;6048;adk(228);fumC(784);gyrB(85);icd(332);mdh(116);purA(149);recA(106);0,672;0,184;0,184;0,594;1,131;0,34;Different plasmid;1.13
+SAMEA5694442;133;4878874;51826;ecoli_achtman_4;1727;adk(6);fumC(19);gyrB(3);icd(16);mdh(11);purA(8);recA(6);28,553;26,117;26,117;9,25;17,516;15,861;Different plasmid;28.55
+SAMN18292567;133;5101709;44402;ecoli_achtman_4;129;adk(6);fumC(23);gyrB(3);icd(26);mdh(9);purA(7);recA(7);22,834;20,932;20,932;11,655;11,891;8,113;Different plasmid;22.83
+SAMN44524652;133;5024789;39308;ecoli_achtman_4;8314;adk(583);fumC(4);gyrB(4);icd(932);mdh(69);purA(8);recA(462);24,626;30,607;30,617;43,311;81,593;87,818;c0_s70;87.82
+SAMEA6932020;132;5111238;41430;ecoli_achtman_4;8691;adk(163);fumC(393);gyrB(85);icd(189);mdh(68);purA(66);recA(225);31,26;18,212;18,669;7,112;9,855;8,618;Different plasmid;31.26
+SAMEA7609009;132;5102632;54134;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);31,158;26,199;26,197;10,422;15,863;14,983;Different plasmid;31.16
+SAMEA5694446;131;4883073;51826;ecoli_achtman_4;1727;adk(6);fumC(19);gyrB(3);icd(16);mdh(11);purA(8);recA(6);28,802;26,362;26,345;9,632;18,202;16,695;Different plasmid;28.8
+SAMN11936872;131;4845197;31882;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);19,309;18,97;17,661;35,644;75,316;86,158;c0_s70;86.16
+SAMN08797321;130;5107414;45296;ecoli_achtman_4;8691;adk(163);fumC(393);gyrB(85);icd(189);mdh(68);purA(66);recA(225);22,823;18,531;18,987;7,58;10,099;10,215;Different plasmid;22.82
+SAMEA7609025;128;5104454;54134;ecoli_achtman_4;58;adk(6);fumC(4);gyrB(4);icd(16);mdh(24);purA(8);recA(14);31,158;26,197;26,197;10,49;15,863;14,88;Different plasmid;31.16
+SAMEA5694443;127;4879051;43613;ecoli_achtman_4;1727;adk(6);fumC(19);gyrB(3);icd(16);mdh(11);purA(8);recA(6);28,802;26,362;26,345;9,25;17,132;15,557;Different plasmid;28.8
+SAMN39509249;127;4837898;50812;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);25,454;23,281;23,281;41,415;79,694;85,448;c0_s70;85.45
+SAMN12186212;125;5378782;111992;ecoli_achtman_4;2946;adk(286);fumC(385);gyrB(221);icd(322);mdh(159);purA(2);recA(157);26,915;24,617;24,617;30,611;62,471;63,758;Different plasmid;63.76
+SAMN02687528;124;4804188;32842;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);40,885;53,955;53,713;35,291;76,336;84,251;c0_s70;84.25
+SAMN12186250;124;4925825;41071;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,675;c0_s70;86.67
+SAMN04992551;122;5048285;33109;ecoli_achtman_4;200;adk(6);fumC(4);gyrB(5);icd(26);mdh(7);purA(8);recA(14);10,715;15,024;14,454;8,694;7,534;8,729;Different plasmid;15.02
+SAMN21214993;117;4877983;54797;ecoli_achtman_4;11941;adk(583);fumC(1796);gyrB(4);icd(83);mdh(69);purA(8);recA(462);25,357;24,497;23,193;36,036;76,133;83,735;c0_s70;83.74
+SAMEA5876526;116;5042042;64673;ecoli_achtman_4;9962;adk(~130);fumC(67);gyrB(41);icd(22);mdh(~7);purA(50);recA(45);27,194;24,863;24,874;35,373;77,678;87,968;c0_s70;87.97
+SAMN37299119;115;4858792;74531;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);53,188;41,415;41,415;44,182;81,729;86,849;c0_s70;86.85
+SAMEA115667382;113;4840017;50626;ecoli_achtman_4;155;adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14);19,095;17,465;17,465;36,952;82,027;84,471;c0_s70;84.47
+SAMN12186231;112;4925660;41171;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,559;c0_s70;86.56
+SAMN16363961;112;4733476;41068;ecoli_achtman_4;5967;adk(132);fumC(170);gyrB(85);icd(207);mdh(116);purA(206);recA(106);3,443;1,328;1,338;0,78;1,07;1,077;Different plasmid;3.44
+SAMN20239271;112;5131575;71549;ecoli_achtman_4;6446;adk(583);fumC(4);gyrB(4);icd(83);mdh(69);purA(8);recA(462);30,728;32,037;32,035;40,195;83,979;84,119;c0_s70;84.12
+SAMN12186233;111;4926615;41607;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,82;c0_s70;86.82
+SAMN12186251;111;4925403;43587;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,675;c0_s70;86.67
+SAMN19776867;111;4925403;43587;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,82;c0_s70;86.82
+SAMN37051292;108;5358462;69349;ecoli_achtman_4;2144;adk(6);fumC(6);gyrB(15);icd(56);mdh(11);purA(26);recA(6);65,003;65,79;65,327;8,642;12,668;11,196;Different plasmid;65.79
+SAMEA10633932;107;4890406;43457;ecoli_achtman_4;206;adk(6);fumC(7);gyrB(5);icd(1);mdh(8);purA(18);recA(2);27,773;29,865;30,027;8,686;15,588;13,798;Different plasmid;30.03
+SAMEA4645233;106;5039225;42871;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);65,146;45,31;45,284;39,186;74,588;79,515;c0_s70;79.52
+SAMN21040599;106;4929624;42946;ecoli_achtman_4;5236;adk(6);fumC(6);gyrB(4);icd(16);mdh(24);purA(26);recA(7);25,292;23,133;23,133;34,373;74,518;79,825;c0_s70;79.83
+SAMN32660017;105;5066334;43772;ecoli_achtman_4;423;adk(6);fumC(4);gyrB(33);icd(1);mdh(20);purA(12);recA(7);30,633;24,16;24,16;42,55;79,807;84,691;c0_s70;84.69
+SAMN12186232;104;4924103;47366;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,82;c0_s70;86.82
+SAMEA112937584;103;5043985;82734;ecoli_achtman_4;641;adk(9);fumC(6);gyrB(33);icd(131);mdh(24);purA(8);recA(7);19,047;24,233;23,68;8,203;11,631;8,382;Different plasmid;24.23
+SAMN12186221;103;5340616;111895;ecoli_achtman_4;2946;adk(286);fumC(385);gyrB(221);icd(322);mdh(159);purA(2);recA(157);26,915;24,617;24,617;30,521;62,471;63,758;Different plasmid;63.76
+SAMN11372013;102;4955593;52218;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);47,657;58,457;58,53;46,705;80,9;86,303;c0_s70;86.3
+SAMN35663880;99;5270742;92862;ecoli_achtman_4;8207;adk(286);fumC(385);gyrB(221);icd(322);mdh(1);purA(2);recA(11);28,048;25,654;25,654;31,273;61,972;63,015;Different plasmid;63.02
+SAMN48047452;99;4624174;57469;ecoli_achtman_4;2682;adk(132);fumC(170);gyrB(296);icd(207);mdh(116);purA(206);recA(106);0,201;0,866;0,184;1,128;2,122;1,235;Different plasmid;2.12
+SAMN34282553;96;5124720;109991;ecoli_achtman_4;8207;adk(286);fumC(385);gyrB(221);icd(322);mdh(1);purA(2);recA(11);30,142;27,569;27,569;29,389;62,215;63,133;Different plasmid;63.13
+SAMEA6492927;95;4831455;64903;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);27,194;24,874;24,874;42,06;82,103;87,412;c0_s70;87.41
+SAMEA7456871;94;4965136;65508;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);62,636;58,607;56,985;38,41;76,157;86,791;c0_s70;86.79
+SAMEA4644913;93;4951007;92225;ecoli_achtman_4;641;adk(9);fumC(6);gyrB(33);icd(131);mdh(24);purA(8);recA(7);18,868;22,481;21,911;9,958;11,381;8,485;Different plasmid;22.48
+SAMN12422627;92;4876997;56186;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,185;86,82;c0_s70;86.82
+SAMN32025488;91;4978393;67423;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);21,6;19,744;19,756;33,986;74,683;84,579;c0_s70;84.58
+SAMN30823233;90;4734515;89388;ecoli_achtman_4;5967;adk(132);fumC(170);gyrB(85);icd(207);mdh(116);purA(206);recA(106);3,443;1,328;1,338;0,337;NA;NA;Different plasmid;3.44
+SAMN30823228;89;4736149;73461;ecoli_achtman_4;5967;adk(132);fumC(170);gyrB(85);icd(207);mdh(116);purA(206);recA(106);3,443;1,328;1,338;0,337;NA;NA;Different plasmid;3.44
+SAMN39924931;89;4828707;90650;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);21,6;19,744;19,756;33,871;74,306;84,341;c0_s70;84.34
+SAMEA4464658;87;4879026;54608;ecoli_achtman_4;410;adk(6);fumC(4);gyrB(12);icd(1);mdh(20);purA(18);recA(7);29,321;26,82;26,82;26,326;52,011;56,205;Different plasmid;56.2
+SAMN30823236;87;4734587;73461;ecoli_achtman_4;5967;adk(132);fumC(170);gyrB(85);icd(207);mdh(116);purA(206);recA(106);3,443;1,328;1,338;0,337;NA;NA;Different plasmid;3.44
+SAMN12588246;86;5098391;61701;ecoli_achtman_4;1380;adk(35);fumC(35);gyrB(61);icd(52);mdh(5);purA(5);recA(4);22,279;20,378;20,378;36,108;77,012;93,323;c0_s70;93.32
+SAMEA9436054;85;5084378;98037;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);63,877;55,056;54,787;36,78;75,228;85,021;c0_s70;85.02
+SAMN32739247;85;4804570;81781;ecoli_achtman_4;1304;adk(6);fumC(95);gyrB(4);icd(18);mdh(11);purA(7);recA(14);18,524;22,166;21,613;6,356;11,053;8,292;Different plasmid;22.17
+SAMN09953904;84;4924422;42492;ecoli_achtman_4;200;adk(6);fumC(4);gyrB(5);icd(26);mdh(7);purA(8);recA(14);18,524;22,166;21,613;8,236;11,502;8,791;Different plasmid;22.17
+SAMN07248289;83;5039716;109634;ecoli_achtman_4;8207;adk(286);fumC(385);gyrB(221);icd(322);mdh(1);purA(2);recA(11);27,704;25,339;25,339;28,689;62,138;63,052;Different plasmid;63.05
+SAMD00179457;82;4857907;90602;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,905;76,186;86,82;c0_s70;86.82
+SAMN08863899;82;5236699;80275;ecoli_achtman_4;8207;adk(286);fumC(385);gyrB(221);icd(322);mdh(1);purA(2);recA(11);27,395;25,057;25,057;28,637;58,22;57,938;Different plasmid;58.22
+SAMEA9436059;81;5085101;98037;ecoli_achtman_4;9962;adk(130);fumC(67);gyrB(41);icd(22);mdh(7);purA(50);recA(45);63,877;55,056;54,787;36,78;75,228;85,021;c0_s70;85.02
+SAMD00179458;76;4860127;90620;ecoli_achtman_4;4577;adk(6);fumC(6);gyrB(3);icd(9);mdh(9);purA(7);recA(6);22,257;21,661;20,357;35,516;74,585;85,732;c0_s70;85.73
+SAMN20848600;71;4827093;88120;ecoli_achtman_4;200;adk(6);fumC(4);gyrB(5);icd(26);mdh(7);purA(8);recA(14);18,524;22,166;21,613;8,202;11,137;8,524;Different plasmid;22.17
+SAMEA110347151;70;5221548;92867;ecoli_achtman_4;2946;adk(286);fumC(385);gyrB(221);icd(322);mdh(159);purA(2);recA(157);26,571;24,303;24,303;28,622;62,166;63,055;Different plasmid;63.06
+SAMN05452878;67;5194986;93129;ecoli_achtman_4;2946;adk(286);fumC(385);gyrB(221);icd(322);mdh(159);purA(2);recA(157);27,01;24,704;24,704;27,883;59,428;60,89;Different plasmid;60.89
+SAMN08367939;66;4897273;85337;ecoli_achtman_4;1308;adk(6);fumC(6);gyrB(33);icd(1);mdh(24);purA(8);recA(7);18,524;22,5;21,947;8,226;10,922;8,405;Different plasmid;22.5
